@@ -9,10 +9,12 @@
 </p>
  
 <div align="center">
+  
+  ![Snake animation](https://github.com/tarciorodrigues/tarciorodrigues/blob/output/github-contribution-grid-snake.svg)
+  
 <a href = "mailto:rodriguestarcio.adv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/tarcio-rodrigues-8187aa227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   
-  ![Snake animation](https://github.com/tarciorodrigues/tarciorodrigues/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
