@@ -13,7 +13,9 @@
   
 <a href = "mailto:rodriguestarcio.adv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/tarcio-rodrigues-8187aa227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <br>
   [![wakatime](https://wakatime.com/badge/user/80f72d9d-fbdf-4750-b47e-a35b93918667.svg)](https://wakatime.com/@80f72d9d-fbdf-4750-b47e-a35b93918667)
+    <img src="https://img.shields.io/coincap/price-usd/binance-coin?style=flat-square" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
