@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO;+MY+NAME+is+Tarcio+Rodrigues+;+I+am+a+Software+Engineer+with+a+high+capacity+for+abstraction+and+routine+experience+in+Javascript,+Typescript,+ReactJs,+NextJS,+NestJs,+AdonisJs,+Solidity,+Tailwind+Css,+NodeJS+and+C#+with+DDD,+MVC,+MVVM+patterns,+passionate+by+coding+and+programming+web+applications.+Experience+with+generative+AI,+SaaS,+E2E+tests+routines+and+pipelines+with+Cypress+and+Playwright.+Currently+pursuing+CST+in+Data+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO;+MY+NAME+is+Tarcio+Rodrigues+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
