@@ -15,9 +15,6 @@
   
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tarciorodrigues&theme=dracula&row=1&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
