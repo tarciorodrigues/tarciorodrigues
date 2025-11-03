@@ -9,10 +9,13 @@
   <a href="https://www.linkedin.com/in/tarcio-rodrigues-8187aa227/" aria-label="LinkedIn Tarcio">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://wakatime.com/@80f72d9d-fbdf-4750-b47e-a35b93918667" aria-label="Wakatime Tarcio">
-    <img alt="Wakatime" src="https://wakatime.com/badge/user/80f72d9d-fbdf-4750-b47e-a35b93918667.svg">
-  </a>
 </div>
+
+<div align='center'>
+  <a href="https://wakatime.com/@80f72d9d-fbdf-4750-b47e-a35b93918667" aria-label="Wakatime Tarcio">
+      <img alt="Wakatime" src="https://wakatime.com/badge/user/80f72d9d-fbdf-4750-b47e-a35b93918667.svg">
+  </a>
+<div/>   
 
 <br/>
 
