@@ -1,0 +1,29 @@
+name: Generate contribution snake
+
+on:
+  # Executa todo dia à 00:00 em America/Sao_Paulo (UTC-3) -> 03:00 UTC
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:  # permite rodar manualmente
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake svgs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: tarciorodrigues
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
